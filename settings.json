@@ -1,0 +1,8 @@
+{
+  "RUN_THIS": "true",
+  "SCRIPT_INFO": "none",
+  "CURRENT_VERSION_OUT": "4.33",
+  "EDGEPLUS_MSG": "ONTOP",
+  "DISABLED_USERS": ["user1", "user2", "user3"],
+  "ACTIVE": true
+}
